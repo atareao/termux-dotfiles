@@ -16,7 +16,7 @@ return {
             docker_compose_language_service = {},
             html = {},
             jsonls = {},
-            tsserver = {},
+            -- tsserver = {},
             -- jqls = {},
             -- lua_ls = {},
             intelephense = {},
